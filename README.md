@@ -11,4 +11,9 @@ WS2812B addressable LEDs formed in a L shape and woven inside the side folds of 
 - Average power consumption.
 - Google Assistant Support.
 - Wireless power (linear).
+
+
  
+<p align="justify">
+  <img width="40%" align="center" src="/Photos/fire-animation.gif">
+</p>
